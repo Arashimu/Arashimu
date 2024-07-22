@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning AI and security
-- 📫 How to reach me: srhlanmu@outlook.com
+- 📫 How to reach me: Wa1nut4@outlook.com
 - ⚡ My ACM blog: https://www.cnblogs.com/Arashimu0x7f/ 
 - ⚡ My CTF blog: https://arashimu.github.io/
 - 😄 :  想学开发
