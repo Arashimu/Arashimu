@@ -1,21 +1,13 @@
-### Hi there 👋
+<div id="title" align=center>
 
-<!--
-**Arashimu/Arashimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Modern C++ template][github-sub-title:img]
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently learning AI and security
-- 📫 How to reach me: Wa1nut4@outlook.com
-- ⚡ My ACM blog: https://www.cnblogs.com/Arashimu0x7f/ 
-- ⚡ My CTF blog: https://arashimu.github.io/
-- 😄 :  想学开发
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Arashimu
+
+- 🌺 I’m currently learning AI and security
+- ✨ How to reach me: Wa1nut4@outlook.com
+- 🌸 My ACM blog: https://www.cnblogs.com/Arashimu0x7f/ 
+- 🌸 My CTF blog: https://arashimu.github.io/
+- 👀 :  梦想成为C++宏观领域大神
